@@ -14,9 +14,9 @@
       "ID" : 1,
       "URL" : "www.ebiw.mx",
       "XML" : "xxxxxxxxxxxx",
-      "Response":""
+      "Response":"jgjhgh"
     }
-    ],
+  ],
   "Api Pagos" : [
     {
       "ID" : 1,
@@ -32,7 +32,7 @@
       "Beneficiario" : "Enrique",
       "Concepto":"API REST",
       "Numero de Cuenta, Tarjeta, Clave": 54545452349390432,
-      "Response":""
+      "Response":"kjkjg"
     },
     {
       "ID" : 2,
@@ -48,9 +48,9 @@
       "Beneficiario" : "Juan Perez",
       "Concepto":"API REST",
       "Numero de Cuenta, Tarjeta, Clave": 54545452349390432,
-      "Response":""
+      "Response":"kjj"
     }
-    ]
+   ]
 }
   
       
