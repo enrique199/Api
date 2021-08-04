@@ -9,22 +9,22 @@
   "profile": {
     "name": "typicode"
   },
-  "Api Autentication": [
+  "autentication": [
     {
-      "ID" : 1,
-      "URL" : "www.ebiw.mx",
-      "XML" : "xxxxxxxxxxxx",
-      "Response":"jgjhgh"
+      "id" : 1,
+      "url" : "www.ebiw.mx",
+      "xml" : "xxxxxxxxxxxx",
+      "response":"jgjhgh"
     }
   ],
-  "Api Pagos": [
+  "api pagos": [
     {
-      "ID": 1,
-      "URL": "www.ebiw.mx"
+      "id": 1,
+      "url": "www.ebiw.mx"
     },
     {
-      "ID": 2,
-      "URL": "www.ebiw.mx"
+      "id": 2,
+      "url": "www.ebiw.mx"
     }
   ]
 }
