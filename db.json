@@ -1,14 +1,5 @@
 {
   
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
   "autentication": [
     {
       "id" : 1,
@@ -17,14 +8,38 @@
       "response":"jgjhgh"
     }
   ],
-  "api pagos": [
+  "pagos": [
     {
       "id": 1,
-      "url": "www.ebiw.mx"
+      "url": "www.ebiw.mx",
+      "Cuenta Origen" : "xxxxxxxxxxxx",
+      "RFC del Beneficiario":"EIGL971008ht23e",
+      "Importe" : 435434234,
+      "Correo Electronico" : "wwwlksd@ebiw.mx",
+      "Fecha valor" : "octubre",
+      "Banco Destino":"Banorte",
+      "Referencia Única de Transacción" : "xxxxx",
+      "Referencia" : "jfje234",
+      "Beneficiario" : "Juan Perez",
+      "Concepto":"API REST",
+      "Numero de Cuenta, Tarjeta, Clave": 54545452349390432,
+      "Response":"kjj"
     },
     {
       "id": 2,
-      "url": "www.ebiw.mx"
+      "url": "www.ebiw.mx",
+      "Cuenta Origen" : "xxxxxxxxxxxx",
+      "RFC del Beneficiario":"EIGL971008ht23e",
+      "Importe" : 435434234,
+      "Correo Electronico" : "wwwlksd@ebiw.mx",
+      "Fecha valor" : "octubre",
+      "Banco Destino":"Banorte",
+      "Referencia Única de Transacción" : "xxxxx",
+      "Referencia" : "jfje234",
+      "Beneficiario" : "Juan Perez",
+      "Concepto":"API REST",
+      "Numero de Cuenta, Tarjeta, Clave": 54545452349390432,
+      "Response":"kjj"
     }
   ]
 }
